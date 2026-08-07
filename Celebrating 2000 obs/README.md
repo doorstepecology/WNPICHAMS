@@ -1,3 +1,4 @@
 A very rough analysis; a celebratory first look at the data associated with the project located at:  https://www.inaturalist.org/projects/wild-native-plants-in-managed-softscapes-and-constructed-hardscapes - celebrating crossing the 2000 observation point. 
-Feedback is super welcome, I'm self-taught/LLM-coached in R (this is the first script I've ever written), and I'm very rusty on my stats (not a working scientists, just a nature nerd). Feel free to contact me (Samuel) at doorstepecology@gmail.com 
 The data used is provided here as observations-767213.csv, and it is the raw iNaturalist project data export, except that I've deleted private lat/longs.
+
+Feedback is super welcome, I'm self-taught/LLM-coached in R (this is the first script I've ever written), and I'm very rusty on my stats (not a working scientists, just a nature nerd). Feel free to contact me (Samuel) at doorstepecology@gmail.com 
